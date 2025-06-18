@@ -9,7 +9,10 @@ Python 3
 
 # How To Use
 
-Create a folder with roblox.py and usernames.txt
+Create a Discord webhook and replace "your_webhook_here" on roblox.py with the discord webhook you created.
+
+
+Create a folder with your modified roblox.py and usernames.txt
 
 
 Open python in the folder and run the line below depending on which Windows version you are on.
